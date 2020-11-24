@@ -1,0 +1,15 @@
+.options-container {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  font-size: 0.5em;
+}
+
+.option-button {
+  padding: 0.5rem;
+  border-radius: 25px;
+  background: #4B4E6D;
+  border: 3px solid #ffce00;
+  margin: 3px;
+  color: #fff;
+  }
